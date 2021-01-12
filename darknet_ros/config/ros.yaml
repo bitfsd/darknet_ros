@@ -1,7 +1,7 @@
 subscribers:
 
-  camera_reading1:
-    topic: /pylon_camera_new/image_raw
+  camera_reading:
+    topic: /camera/image_raw
     queue_size: 1
 
 actions:
